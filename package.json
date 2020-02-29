@@ -1,5 +1,5 @@
 {
-  "name": "ci-sample",
+  "name": "test-github-action-node-sample",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -10,9 +10,9 @@
     "express": "^4.14.0"
   },
   "devDependencies": {
-    "mocha": "^3.1.2",
+    "mocha": "^7.1.0",
     "should": "^11.1.1",
-    "supertest": "^2.0.1"
+    "supertest": "^4.0.2"
   },
   "scripts": {
     "test": "mocha"
@@ -20,12 +20,9 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lethalbrains/ci-sample.git"
+    "url": "git+https://github.com/yokawasa/test-github-action-node-sample.git"
   },
-  "bugs": {
-    "url": "https://github.com/lethalbrains/ci-sample/issues"
-  },
-  "homepage": "https://github.com/lethalbrains/ci-sample#readme",
-  "author": "Rahul J <rahul@lethalbrains.com>",
-  "license": "ISC"
+  "homepage": "https://github.com/yokawasa/test-github-action-node-sample",
+  "author": "Yoichi Kawasaki",
+  "license": "Zero"
 }
